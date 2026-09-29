@@ -61,8 +61,3 @@ Selected loan-management and profile flows, including ongoing and completed-loan
 
 The original `Woori Project.fig` archive is approximately 472 MB and is not included in this standard GitHub repository. Publishing a working source file of that size requires Git LFS or an approved Figma sharing link. Keeping it out of the repository also reduces the risk of exposing embedded working assets or internal information.
 
-This repository presents an embedded overview and selected high-resolution crops exported from the authorised Figma file. Only a limited set of representative journeys is shown; the complete working canvas is not published.
-
-## Attribution
-
-I am presenting this work as a product and UX leader at PT Woori Finance Indonesia. Product names, trademarks, customer information, imagery, and organisational materials belong to their respective owners. This portfolio case study does not claim sole authorship of work created collaboratively with designers, researchers, engineers, and business teams.

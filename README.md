@@ -39,29 +39,29 @@ The attached Figma workspace shows a broad system of screens and flows rather th
 
 The views below are curated sections of the original Figma workspace. They show enough of the interface system and journey structure to explain the work while avoiding publication of every working screen.
 
-### Mobile journeys
+### Account access journeys
 
 ![Selected mobile product flows from the Woori Finance Figma workspace](assets/mobile-flows.png)
 
-Exploration of connected mobile screens, navigation states, and longer task sequences.
+Selected sign-up and login flows, including form, verification, PIN creation, and account-entry states.
 
-### Responsive and web exploration
+### Finance application journeys
 
-![Selected responsive and web interface exploration from the Woori Finance Figma workspace](assets/responsive-exploration.png)
+![Selected multipurpose, vehicle, and equipment finance application flows from the Woori Finance Figma workspace](assets/responsive-exploration.png)
 
-Cross-form-factor concepts and grouped interface states used to review responsive product behaviour.
+Application paths for multipurpose, new-car, used-car, and heavy-equipment finance, showing the relationship between entry points, forms, validation, and submission outcomes.
 
-### Workflow iterations
+### Loan and profile management
 
 ![Selected workflow iterations from the Woori Finance Figma workspace](assets/workflow-iterations.png)
 
-Additional journey variants and supporting states showing how the experience was developed across multiple flows.
+Selected loan-management and profile flows, including ongoing and completed-loan states, identity verification, profile updates, and help-centre journeys.
 
 ## Source-file note
 
 The original `Woori Project.fig` archive is approximately 472 MB and is not included in this standard GitHub repository. Publishing a working source file of that size requires Git LFS or an approved Figma sharing link. Keeping it out of the repository also reduces the risk of exposing embedded working assets or internal information.
 
-This repository presents an embedded overview and selected crops generated from Figma's local preview. Additional high-resolution, sanitised exports can be added after confirming that each selected screen is approved for public release.
+This repository presents an embedded overview and selected high-resolution crops exported from the authorised Figma file. Only a limited set of representative journeys is shown; the complete working canvas is not published.
 
 ## Attribution
 
